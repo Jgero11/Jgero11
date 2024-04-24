@@ -15,13 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-| Drafting a professional statement             |
+| My Professional Statement                     | <a href="https://drive.google.com/file/d/1fEXqz1WVOBLalR_3JfHUtv694ou5CIm5/view?usp=drive_link">Drafting a professional statement </a>|
 | Controls and compliance checklist             | <a href="https://drive.google.com/file/d/1LPTha3-SEpAoxu3mA7Hkb65yuFaiodcg/view?usp=drive_link">Conducting a security audit</a>|
 | Incident report analysis                      | <a href="https://drive.google.com/file/d/1bqCy4WR24qCeGVDB_rdjDi6eQBSXGlgo/view?usp=drive_link">Using the NIST Cybersecurity Framework to respond to a security incident</a>|
 | File permissions in Linux                     | <a href="https://drive.google.com/file/d/1QvCw5bnR58U8kyazPS29mwZWLppI-hZ6/view?usp=drive_link">Using Linux commands to manage file permissions with Qwiklabs</a>|                    
