@@ -19,10 +19,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | Incident handler's journal entry              | <a href="https://drive.google.com/file/d/15PirBdJ-EYEntr2zviQAZmlzJwv9RLXi/view?usp=drive_link">Documenting an incident with an incident handler's journal</a>
 | Completed incident handler's journal          | <a href="https://drive.google.com/file/d/16ETh5n25vx2huQK4zB_qdyCMI4LYRI_k/view?usp=drive_link">Finalizing my incident handler's journal</a>
 | Update a file through a Python algorithm      | <a href="https://drive.google.com/file/d/1YwhLSIbI-ISfmCpFWTRRxIfUnuVZ8f-t/view?usp=drive_link">Updating a file through a Python algorithm using Project Jupyter</a>
-
+| Google Cloud Skills Boost                     | <a href="[https://www.cloudskillsboost.google/public_profiles/e556cb1e-f278-4f64-abcd-7cce4103591f](https://www.cloudskillsboost.google/profile/activity)">Mastering Coding</a>
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 
@@ -30,29 +29,17 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 [![Suricata](https://img.shields.io/badge/-Suricata-1679A7?&style=for-the-badge&logo=Suricata&logoColor=white)](https://suricata.io//)
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
+[![Microsoft Defender Endpoint](https://img.shields.io/badge/-Microsoft%20Defender%20Endpoint-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans?activetab=pivot:overviewtab)
 
 ### SIEM
 
-    [![tcpdump](https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=Suricata&logoColor=white)](https://www.tcpdump.org/)
-
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-
+[![Splunk](https://img.shields.io/badge/-Splunk-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/)
+[![tcpdump](https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=Suricata&logoColor=white)](https://www.tcpdump.org/)
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-000080?&style=for-the-badge&logoColor=white)](https://www.credly.com/badges/9644514f-88cf-43af-904a-639fb7d030bb/public_url)
-<div>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
