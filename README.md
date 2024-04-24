@@ -27,6 +27,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | File permissions in Linux                     | <a href="https://drive.google.com/file/d/1QvCw5bnR58U8kyazPS29mwZWLppI-hZ6/view?usp=drive_link">Using Linux commands to manage file permissions with Qwiklabs</a>|                    
 | Apply filters to SQL queries                  | <a href="https://drive.google.com/file/d/1MPnl7SqGC5GLNuLGUO1BmnL-_vhxtaH6/view?usp=drive_link">Applying filters to SQL queries with Qwiklabs</a>
 | Incident handler's journal entry              | <a href="https://drive.google.com/file/d/15PirBdJ-EYEntr2zviQAZmlzJwv9RLXi/view?usp=drive_link">Documenting an incident with an incident handler's journal</a>
+| Completed incident handler's journal          | <a href="https://drive.google.com/file/d/16ETh5n25vx2huQK4zB_qdyCMI4LYRI_k/view?usp=drive_link">Finalizing my incident handler's journal</a>
+| Update a file through a Python algorithm      | <a href="https://drive.google.com/file/d/1YwhLSIbI-ISfmCpFWTRRxIfUnuVZ8f-t/view?usp=drive_link">Updating a file through a Python algorithm using Project Jupyter</a>
 
 
 ## Tools
