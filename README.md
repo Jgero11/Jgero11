@@ -20,8 +20,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Drafting a professional statement             | 
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| Drafting a professional statement             |
+| Controls and compliance checklist             | <a href="[https://google.com](https://drive.google.com/file/d/1LPTha3-SEpAoxu3mA7Hkb65yuFaiodcg/view?usp=drive_link)">Conducting a security audit</a>|
+| Apply filters to SQL queries                  | <a href="[https://google.com](https://drive.google.com/file/d/1MPnl7SqGC5GLNuLGUO1BmnL-_vhxtaH6/view?usp=sharing)">Detection Lab</a>
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
