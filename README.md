@@ -24,8 +24,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Drafting a professional statement             |
 | Controls and compliance checklist             | <a href="https://drive.google.com/file/d/1LPTha3-SEpAoxu3mA7Hkb65yuFaiodcg/view?usp=drive_link">Conducting a security audit</a>|
 | Incident report analysis                      | <a href="https://drive.google.com/file/d/1bqCy4WR24qCeGVDB_rdjDi6eQBSXGlgo/view?usp=drive_link">Using the NIST Cybersecurity Framework to respond to a security incident</a>|
-| File permissions in Linux                     | <a href="https://drive.google.com/file/d/1QvCw5bnR58U8kyazPS29mwZWLppI-hZ6/view?usp=drive_link">Using Linux commands to manage file permissions</a>|
-| Apply filters to SQL queries                  | <a href="(https://drive.google.com/file/d/1MPnl7SqGC5GLNuLGUO1BmnL-_vhxtaH6/view?usp=sharing">Detection Lab</a>
+| File permissions in Linux                     | <a href="https://drive.google.com/file/d/1QvCw5bnR58U8kyazPS29mwZWLppI-hZ6/view?usp=drive_link">Using Linux commands to manage file permissions with Qwiklabs</a>|                    
+| Apply filters to SQL queries                  | <a href="https://drive.google.com/file/d/1MPnl7SqGC5GLNuLGUO1BmnL-_vhxtaH6/view?usp=drive_link">Applying filters to SQL queries with Qwiklabs</a>
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
