@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | Incident handler's journal entry              | <a href="https://drive.google.com/file/d/15PirBdJ-EYEntr2zviQAZmlzJwv9RLXi/view?usp=drive_link">Documenting an incident with an incident handler's journal</a>
 | Completed incident handler's journal          | <a href="https://drive.google.com/file/d/16ETh5n25vx2huQK4zB_qdyCMI4LYRI_k/view?usp=drive_link">Finalizing my incident handler's journal</a>
 | Update a file through a Python algorithm      | <a href="https://drive.google.com/file/d/1YwhLSIbI-ISfmCpFWTRRxIfUnuVZ8f-t/view?usp=drive_link">Updating a file through a Python algorithm using Project Jupyter</a>
-| Google Cloud Skills Boost                     | <a href="[https://www.cloudskillsboost.google/public_profiles/e556cb1e-f278-4f64-abcd-7cce4103591f](https://www.cloudskillsboost.google/profile/activity)">Mastering Coding</a>
+| Google Cloud Skills Boost                     | <a href="https://www.cloudskillsboost.google/public_profiles/e556cb1e-f278-4f64-abcd-7cce4103591f">Mastering Coding</a>
 
 ## Tools
 
