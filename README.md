@@ -23,6 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 | Drafting a professional statement             |
 | Controls and compliance checklist             | <a href="https://drive.google.com/file/d/1LPTha3-SEpAoxu3mA7Hkb65yuFaiodcg/view?usp=drive_link">Conducting a security audit</a>|
+| Incident report analysis                      | <a href="https://drive.google.com/file/d/1bqCy4WR24qCeGVDB_rdjDi6eQBSXGlgo/view?usp=drive_link">Using the NIST Cybersecurity Framework to respond to a security incident</a>|
 | Apply filters to SQL queries                  | <a href="(https://drive.google.com/file/d/1MPnl7SqGC5GLNuLGUO1BmnL-_vhxtaH6/view?usp=sharing">Detection Lab</a>
 
 ## Tools
