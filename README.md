@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ## Certifications
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-000080?&style=for-the-badge&logoColor=white)](https://www.credly.com/badges/9644514f-88cf-43af-904a-639fb7d030bb/public_url)
-
+[![CompTIA Security+](https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=Suricata&logoColor=white)](https://www.comptia.org/certifications/security)
 
 ## Projects
 - Qwiklabs
